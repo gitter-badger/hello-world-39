@@ -1,4 +1,6 @@
 # hello-world
+
+[![Join the chat at https://gitter.im/medarius/hello-world](https://badges.gitter.im/medarius/hello-world.svg)](https://gitter.im/medarius/hello-world?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 I remember everything.
 From the moment i was born. Their faces and how they broke my collarbone.
 By 10 i was able to recognize thousands different types of perceptions.
